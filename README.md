@@ -44,3 +44,12 @@
 到此软件已设置完成，可以打开浏览器尝试访问谷歌搜索测试是否可用。
 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~分割线
+windows：
+[下载地址](https://github.com/2dust/v2rayN/releases/download/4.5/v2rayN-Core.zip)
+![image](https://user-images.githubusercontent.com/54230750/127882107-bb123e3c-1569-4f8c-ad0c-87bad7c7f0d8.png)
+android:
+[下载地址](https://v2.freeyes.xyz/download/v2rayNG.apk)
+![image](https://user-images.githubusercontent.com/54230750/127882411-5f68a085-1d2a-4339-9f59-16ce7583314c.png)
+
+
